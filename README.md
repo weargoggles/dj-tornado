@@ -5,7 +5,7 @@ dj-tornado
 
 Embedding a production-ready HTTP server in your Django application by installing an app - easy as Py!
 
-dj-tornado uses @kennethreitz' dj-static to serve your dynamic pages and your static assets with Tornado's great little non-blocking HTTP server.
+dj-tornado uses [dj-static](https://github.com/kennethreitz/dj-static) to serve your dynamic pages and your static assets with [tornado](https://github.com/tornadoweb/tornado)'s great non-blocking HTTP server.
 
 Setup
 -----
