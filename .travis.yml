@@ -10,3 +10,4 @@ deploy:
     secure: Sqol6bnHqAEjSuy3sRgwXpU0uQh7SvfOjeGQslVO2lV2OkfACnGiOGdfg1aS+QC32wPX0SSw6pRdqn0cMd8vWGAY3FeOuFVYpFy2imEcsPTCw5FqlDZUmmcr483UQO1nHZi6cmWirZu5R1SSvdQIjlfzmoOXtXURVqzmhBWFU+Q=
   on:
     tags: true
+    all_branches: true
