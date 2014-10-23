@@ -11,7 +11,7 @@ author_first, author_last, author_email = dj_tornado.__author__.split()
 author = " ".join((author_first, author_last))
 author_email = author_email.strip('<>')
 description = dj_tornado.__doc__
-README = open(os.path.join(here, 'README.md')).read()
+README = description
 install_requires = ['tornado', 'dj-static']
 
 setup(name='dj-tornado',
