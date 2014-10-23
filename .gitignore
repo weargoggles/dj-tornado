@@ -1,0 +1,9 @@
+*.py[cod]
+*.egg
+*.egg-info
+dist
+build
+sdist
+pip-log.txt
+.idea
+.*.swp
