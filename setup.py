@@ -14,7 +14,7 @@ description = dj_tornado.__doc__
 README = open(os.path.join(here, 'README.md')).read()
 install_requires = ['tornado', 'dj-static']
 
-setup(name='django-tornado',
+setup(name='dj-tornado',
       version=version,
       description=description,
       long_description=README,
