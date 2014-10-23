@@ -36,7 +36,7 @@ setup(name='django-tornado',
       license='MIT License',
       packages=find_packages(),
       include_package_data=True,
-      test_suite='dj_tornado.test.load_suite',
+      test_suite='dj_tornado.tests',
       zip_safe=False,
       install_requires=install_requires,
 )
