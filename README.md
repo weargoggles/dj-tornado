@@ -2,6 +2,7 @@ dj-tornado
 ==========
 
 ![travis build status](https://travis-ci.org/weargoggles/dj-tornado.svg?branch=master)
+![pypi release](https://img.shields.io/pypi/v/dj-tornado.svg)
 
 Embedding a production-ready HTTP server in your Django application by installing an app - easy as Py!
 
